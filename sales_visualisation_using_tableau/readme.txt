@@ -1,5 +1,5 @@
 Data Analysis Using Power BI
-============================
+
 
 1. Formula to create norm_amount column
 
