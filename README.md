@@ -30,11 +30,11 @@ The sales  director has provide us with sales data and to explore it and get pre
 
 We need to get following insights from the analysis-
 
-1 Revenue breakdown by cities
-2 Revenue breakdown by year and months
-3 top 5 customers
-4 top 5 products
-5 viz in tableau
+1) Revenue breakdown by cities
+2) Revenue breakdown by year and months
+3) top 5 customers
+4) top 5 products
+5) viz in tableau
 
 # PROCESS & ANALYSIS
 
@@ -42,4 +42,14 @@ The data process and analysis is done on Tableau public where all the insights a
 
  # ACT
 On studying the viz we come to conclusion that the sales of Atiq is declining YOY basis.
+
+Delhi NCR gives the highest sales and revenue.
+
+Top 5 products are product40, product159, product065, product018 and product053 so we need to focus on cities which are  performing poorly and products which are not selling as desired.We can provide discounts on poorperforming products so as to provide competitive prices to other companies.
+
+Also we can focus on new marketing strategy.
+
+All the regional managers should be called at the head office and the subject should be discussed with them so as to align them with the company goals and objective  and should be provided with proper training if felt necessary.
+
+
 
