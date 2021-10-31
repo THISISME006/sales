@@ -38,7 +38,8 @@ We need to get following insights from the analysis-
 
 # PROCESS & ANALYSIS
 
-The data process and analysis is done on Tableau public where all the insights are formed and a dashboard is prepared according to it.
+The data process and analysis is done on Tableau public where all the insights are formed and a dashboard is prepared according to it.Folowing is the link for the viz done in Tableau-
+https://public.tableau.com/app/profile/vaibhav2328/viz/sales_project_16354469883190/Dashboard1
 
  # ACT
 On studying the viz we come to conclusion that the sales of Atiq is declining YOY basis.
